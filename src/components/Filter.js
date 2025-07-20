@@ -17,4 +17,5 @@ function Filter({ category, onCategoryChange }) {
   );
 }
 
+
 export default Filter;
